@@ -1,24 +1,20 @@
 <template>
   <div v-if="props.mode === 'pc'" class="foot-container-pc">
-    <p>
-      哈基密语加密器 | 一款离线的端到端加密聊天工具 |
-      <text-link href="https://app.xiaobaozi.cn/">
-        友情链接：一只小包子哈基米加密器
-      </text-link>
-    </p>
+    
     <p>
       使用 GPL-3.0 license 开放源代码 |
       <text-link href="https://github.com/wifi504/translate-ha-jimi">
-        Copyright © 2025 哈基密语加密器 All Rights Reserved.
+        Copyright © 2025 哈基密语加密器 and NYS All Rights Reserved.
       </text-link>
     </p>
     <p>
       <text-link href="https://space.bilibili.com/335320968">
         Powered By WIFI连接超时
       </text-link>
-      |
-      <text-link href="https://beian.miit.gov.cn/">
-        蜀ICP备2022004197号
+    </p>
+    <p>
+      <text-link href="https://szntm.top/">
+        Online By NYS
       </text-link>
     </p>
   </div>
@@ -29,17 +25,13 @@
     <p>
       一款离线的端到端加密聊天工具
     </p>
-    <p>
-      <text-link href="https://app.xiaobaozi.cn/">
-        友情链接：一只小包子丶哈基米加密器
-      </text-link>
-    </p>
+
     <p>
       使用 GPL-3.0 license 开放源代码
     </p>
     <p>
       <text-link href="https://github.com/wifi504/translate-ha-jimi">
-        Copyright © 2025 哈基密语加密器 All Rights Reserved.
+        Copyright © 2025 哈基密语加密器 and NYS All Rights Reserved.
       </text-link>
     </p>
     <p>
@@ -48,8 +40,8 @@
       </text-link>
     </p>
     <p>
-      <text-link href="https://beian.miit.gov.cn/">
-        蜀ICP备2022004197号
+      <text-link href="https://szntm.top/">
+        Online By NYS
       </text-link>
     </p>
   </div>

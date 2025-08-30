@@ -1,4 +1,5 @@
-# translate-ha-jimi
+# translate-ha-jimi-Cloudflare-Quick-Deployment-Edition
+# 哈吉米翻译器Cloudflare快速部署版
 
 哈基密语加密器 v2.0 版本(NYS改进版）
 

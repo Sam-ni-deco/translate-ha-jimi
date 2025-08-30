@@ -1,11 +1,11 @@
 # translate-ha-jimi-Cloudflare-Quick-Deployment-Edition
 # 哈吉米翻译器Cloudflare快速部署版
 
-哈基密语加密器 v2.0 版本(NYS改进版）
+哈基密语加密器 v2.0 版本（Cloudflare快速部署版）
 
 ### 2025.8.29 NYS留言：
 
-使用器版本的哈机密语言加密器可以直接使用仓库部署至cloudflare pages或workers
+使用此仓库可以将哈吉米翻译器快速部署至Cloudflare Workers或Pages
 
 ### 2025.8.16 作者留言：
 

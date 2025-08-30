@@ -15,11 +15,7 @@
         Online By NYS
       </text-link>
     </p>
-    <p>
-      <text-link href="https://szntm.top/">
-        Online By NYS
-      </text-link>
-    </p>
+    
   </div>
   <div v-else class="foot-container-phone">
     <p>
@@ -45,11 +41,7 @@
         Online By NYS
       </text-link>
     </p>
-    <p>
-      <text-link href="https://szntm.top/">
-        Online By NYS
-      </text-link>
-    </p>
+
   </div>
 </template>
 

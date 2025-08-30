@@ -76,6 +76,6 @@ Vue3 | TypeScript | Vite
 
 GNU General Public License v3.0
 
-### Stars
+### 原作者Stars History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=wifi504/translate-ha-jimi&type=Date)](https://www.star-history.com/#wifi504/translate-ha-jimi&Date)

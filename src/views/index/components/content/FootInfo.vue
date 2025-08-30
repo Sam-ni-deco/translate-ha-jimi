@@ -38,6 +38,9 @@
       <text-link href="https://space.bilibili.com/335320968">
         Powered By WIFI连接超时
       </text-link>
+      <text-link href="https://szntm.top/">
+        Online By NYS
+      </text-link>
     </p>
     <p>
       <text-link href="https://szntm.top/">

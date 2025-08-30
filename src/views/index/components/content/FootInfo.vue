@@ -3,13 +3,16 @@
     
     <p>
       使用 GPL-3.0 license 开放源代码 |
-      <text-link href="https://github.com/wifi504/translate-ha-jimi">
+      <text-link href="https://github.com/Sam-ni-deco/translate-ha-jimi">
         Copyright © 2025 哈基密语加密器 and NYS All Rights Reserved.
       </text-link>
     </p>
     <p>
       <text-link href="https://space.bilibili.com/335320968">
         Powered By WIFI连接超时
+      </text-link>
+      <text-link href="https://szntm.top/">
+        Online By NYS
       </text-link>
     </p>
     <p>
@@ -30,7 +33,7 @@
       使用 GPL-3.0 license 开放源代码
     </p>
     <p>
-      <text-link href="https://github.com/wifi504/translate-ha-jimi">
+      <text-link href="https://github.com/Sam-ni-deco/translate-ha-jimi">
         Copyright © 2025 哈基密语加密器 and NYS All Rights Reserved.
       </text-link>
     </p>

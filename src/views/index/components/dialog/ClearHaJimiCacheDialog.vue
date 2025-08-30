@@ -8,16 +8,16 @@
       </template>
       你真的确认要清空本地浏览器缓存吗？此操作
       <high-light-text>
-        不可恢复
+        ！！！不可恢复！！！
       </high-light-text>
-      ，接下来你需要重设密码和重新添加联系人！
+      ，所以说接下来你需要重设密码和重新添加联系人！
       <template #action>
         <n-flex justify="right">
           <n-button ghost type="primary" @click="hide">
             取消
           </n-button>
           <n-button type="primary" @click="handleSubmit">
-            确认
+            确认（buyao啊）
           </n-button>
         </n-flex>
       </template>

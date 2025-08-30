@@ -3,7 +3,7 @@
     <img class="avatar" src="@/assets/image/hjm.png" alt="LOGO">
     <div class="title">
       哈基密语加密器<br>
-      <span>一款离线的端到端加密聊天工具</span>
+      <span>一款离谱的离线的端到端加密聊天工具</span>
     </div>
     <span v-if="props.mode === 'pc'" class="sub-title" @click="navigateBiliBili">→<span>哈</span>观看<span>基密</span>演示视频，曼波~</span>
   </div>
